@@ -69,7 +69,7 @@ extension SettingsView {
             }
             .padding()
             Link("Watch Youtube 🦉", destination: youtubeURL)
-            Link("Support this poor boy ☕️", destination: coffeURL)
+            Link("Buy me a ☕️", destination: coffeURL)
             
         }
     }
