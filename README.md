@@ -3,6 +3,7 @@
 
 [![Swift Version][swift-image]][swift-url]
 [![Build Status][travis-image]][travis-url]
+<img src="./images/home_screen.svg" width=200 height=400/>
 <img src="https://www.figma.com/proto/qWanUyCtgTrrxGeeYi5iwC/Untitled?page-id=0%3A1&node-id=1%3A8&scaling=min-zoom" data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://github.com/BoogieManN8/CryptoTracker/blob/main/first.gif)" width="200" height="400" />
 [![CocoaPods Compatible](https://img.shields.io/cocoapods/v/EZSwiftExtensions.svg)](https://img.shields.io/cocoapods/v/LFAlertController.svg)  
 [![Platform](https://img.shields.io/cocoapods/p/LFAlertController.svg?style=flat)](http://cocoapods.org/pods/LFAlertController)
