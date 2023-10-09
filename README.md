@@ -1,5 +1,6 @@
 # CryptoTracker
 
+# Idk just read code wtf 
 
 [![Swift Version][swift-image]][swift-url]
 [![Build Status][travis-image]][travis-url]
